@@ -45,3 +45,4 @@
 # Removable storage
 /sdcard1          auto       /dev/block/mmcblk1p1                               flags=display="Micro SD Card";storage;wipeingui;removable
 /usb-otg          auto       /dev/block/sda1                                    flags=display="USB Storage";storage;wipeingui;removable
+/storage          ext4       /data/media/0                  		            flags=display="Internal Storage";usermrf;backup=1;fsflags="bind";removable
