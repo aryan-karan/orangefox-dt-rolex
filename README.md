@@ -1,4 +1,4 @@
-TeamWin Recovery Project
+OrangeFox Recovery Project
 
 Device configuration for Xiaomi Redmi 4A  (_rolex_)
 =====================================================
