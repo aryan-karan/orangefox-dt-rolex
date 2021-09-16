@@ -20,3 +20,8 @@ Front Camera | 5.0 MP
 Release Date | November 2016
 
 ![Xiaomi Redmi 4A](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-4a-3.jpg "Xiaomi Redmi 4A")
+
+Clone Command
+```
+git clone https://github.com/aryan-karan/orangefox-dt-rolex.git -b fox_9.0 device/xiaomi/rolex
+```
